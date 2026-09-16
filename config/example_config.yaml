@@ -1,0 +1,8 @@
+matrix:
+  - [4.0, 1.0, 0.0]
+  - [1.0, 3.0, 1.0]
+  - [0.0, 1.0, 2.0]
+max_iter: 500
+tol: 1e-10
+# init_vec is optional; uncomment to provide a deterministic start
+# init_vec: [1.0, 0.0, 0.0]
